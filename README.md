@@ -1,4 +1,4 @@
-## /claude Genereate me a cool README.md for github. Make no mistakes!
+## `/claude` Genereate me a cool README.md for github. Make no mistakes!
 
 <!--
 **odimitriou/odimitriou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
